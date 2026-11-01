@@ -5,3 +5,6 @@ if num1 == num2:
     print("Os números introduzidos são iguais.")
 else:
     print("Os números introduzidos são diferentes.")
+
+
+# Atualizacao para pull requestgit add .
