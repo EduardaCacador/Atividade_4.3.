@@ -6,4 +6,6 @@ if num1 == num2:
 else:
     print("Os números introduzidos são diferentes.")
 
-# Comentario criado na branch de testes
+
+
+#comentario criado novo
